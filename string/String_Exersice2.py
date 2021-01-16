@@ -3,7 +3,7 @@ string = "I am the best programmer"
 print(len(string))
 
 # จงเขียนคำสั่งเพื่อแสดงอักษรแรกของข้อความ "I am the best programmer"
-string = " I am the best programmer "
+string = "I am the best programmer "
 print(string[0])
 
 # จงเขียนคำสั่งเพื่อแสดง "best" ของข้อความ "I am the best programmer"

@@ -8,7 +8,7 @@ print(string[0])
 
 # จงเขียนคำสั่งเพื่อแสดง "best" ของข้อความ "I am the best programmer"
 string = "I am the best programmer"
-print(string[8:14])
+print(string[9:14])
 
 # จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ที่ไม่มี space
 string = "I am the best programmer"

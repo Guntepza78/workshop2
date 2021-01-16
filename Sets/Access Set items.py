@@ -1,9 +1,9 @@
-#Ex1
+# Ex1
 thisset = {"apple", "banana", "cherry"}
 for x in thisset:
     print(x)
 
-#Ex2
-fruits = {"apple","banana","cherry"}
-if "apple" in fruits 
-print("Yes,apple is fruit")
+# EX-2
+fruits = {"apple", "banana", "cherry"}
+if "apple" in fruits:
+    print("Yes, apple is fruit!")

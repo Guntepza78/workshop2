@@ -12,7 +12,7 @@ animal = ["cat", "bat", "rat", "dog"]
 animal.append("hen")
 print(animal)
 
-# จงเพิ่ม "hen" ไประหว่าง "rat" กับ "ิิdog"
+# จงเพิ่ม "hen" ไประหว่าง "rat" กับ "dog"
 animal = ["cat", "bat", "rat", "dog"]
 animal.insert(3, "hen")
 print(animal)
